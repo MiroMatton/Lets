@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "LETS",
+    "slug": "lets",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./app/assets/icon.png",
+    "splash": {
+      "image": "./app/assets/loader.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "softwareKeyboardLayoutMode": "pan",
+      "package": "lets.app",
+      "versionCode": 8
+    },
+    "web": {
+      "favicon": "./app/assets/favicon.png"
+    }
+  }
+}

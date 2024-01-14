@@ -1,6 +1,6 @@
-# 2021WMMAD-Lets
+# Lets
 
-- Git repro voor web&mobile mobile aplication development project van MiroMatton.
+- Git repro voor Lets project.
 
 ## figma desing
 
@@ -15,7 +15,7 @@ https://www.figma.com/file/7zTwQnMVZwMuzC1LM7aWm6/Lets?node-id=0%3A1
 - Clone de repo, door in de terminal dit commando uittevoeren.
 
 ```shell
-git clone https://gitlab.com/ikdoeict/miro.matton/2021wmmad-lets.git
+git clone https://github.com/MiroMatton/Lets.git
 ```
 
 # installatie
